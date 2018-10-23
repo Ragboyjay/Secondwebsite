@@ -1,0 +1,51 @@
+body{
+    background-color: papayawhip;
+}
+#box1{
+    background-color: red;
+    float: left;
+}
+#box2{
+    background-color: blue;
+    float: left;
+}
+#box3{
+    background-color: yellow;
+    float: left;
+    clear: both;
+}
+#box4 {
+    background-color: green;
+    float: left;
+
+}
+    .box {
+        height:50px;
+        width:36px;
+        border: black 1px solid;
+        margin-top: 0px;
+        padding: 7px;
+
+    }
+    #wrapper {
+        width: 960px;
+        border: black 1px solid;
+        margin-left: auto;
+        margin-right: auto;
+}
+    #footer {
+        background-color: pink;
+    }
+    #sidebar {
+        float: left;
+        width: 366px
+        background-color: blue;
+    }
+    #menu li {
+        display: inline;
+    }
+    #content {
+        width: 544px
+        background-color: azure;
+        float: left;
+    }
